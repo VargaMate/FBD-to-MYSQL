@@ -1,3 +1,5 @@
+FBD to MYSQL converter
+
 Install this:
 
 pip install fdb mysql-connector-python
